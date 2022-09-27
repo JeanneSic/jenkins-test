@@ -1,2 +1,2 @@
-echo "script";
-echo "test";
+echo "script"
+echo "test"
