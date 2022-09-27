@@ -1,1 +1,2 @@
-nouveau script
+echo "script";
+echo "test";
